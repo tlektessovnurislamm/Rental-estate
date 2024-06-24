@@ -161,6 +161,16 @@ nav img{
     align-items: center;
     justify-content: space-around;
     padding: 0 10px;
+    border-radius: 15px;
+}
+
+.mp{
+    display: flex;
+    position: absolute;
+    top:870px;
+    left: 730px;
+    height: 60px;
+    width: 60px;
 }
 
 .container p{
